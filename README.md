@@ -23,6 +23,8 @@ pip install robotframework-seleniumlibrary
 ```
 robot vaccine.robot
 ```
+![Screenshot](test_result.jpg)
+**If test fail please try again.**
 ## Question
 Which do you think is a better framework for E2E testing of web applications or web services:  Robot Framework or Cucumber with Selenium/HTTP library and JUnit?
 
